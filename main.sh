@@ -3,7 +3,7 @@
 # GITHUB_TOKEN is set as an environment variable
 
 DIRNAME="$(basename $PWD)"
-USERNAME="viniciusCamargo"
+USERNAME="YOUR_USERNAME"
 
 function create_repo_and_push {
   git status --untracked-files
