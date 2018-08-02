@@ -5,7 +5,7 @@
     and set it to a `GITHUB_TOKEN` environment variable
 2.  Set your `USERNAME` on the script
 3.  [Optional] alias the script to whatever command you'd easily remember, mine is `quickrepo` :-)
-4.  [Optional] choose if the repositories should be private or public by default
+4.  [Optional] choose if the repositories should be private or public. Default is `public`.
 
 # How it works?
 
