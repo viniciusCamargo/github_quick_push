@@ -16,7 +16,7 @@
 
     - Show the detailed status of the repository
     - Is it okay to push everything in it?
-    - What is the name of the repository? Default is the directory name.
+    - What should be the name of the repository? Default is the current directory name.
     - Push to Github
     - Was the request OK?
 
@@ -33,7 +33,7 @@
     - Create a new repository
     - Show the detailed status of the repository
     - Is it okay to push everything in it?
-    - What is the name of the repository? Default is the directory name.
+    - What should be the name of the repository? Default is the current directory name.
     - Push to Github
     - Was the request OK?
 
